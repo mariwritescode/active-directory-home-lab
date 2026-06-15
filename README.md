@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the deployment and administration of a Windows Server Active Directory environment in VirtualBox.
+This project demonstrates the deployment and administration of a Windows Server Active Directory environment in VirtualBox for a fictional company, Rocky's Pet Supply.
 
 Domain Name:
 RockyPetSupply.local
@@ -50,10 +50,10 @@ RockyPetSupply.local
 
 ## Screenshots
 
-### Server Manager
-<img width="1022" height="851" alt="Screenshot 2026-06-14 192354" src="https://github.com/user-attachments/assets/54b7fa15-5005-483e-9a68-c6c6053d699e" />
+### Server Manager - Active Directory Users and Computers
+<img width="1021" height="848" alt="Screenshot 2026-06-14 200937" src="https://github.com/user-attachments/assets/2a0f4e9f-77c6-4af6-a128-f73bc7fea7e6" />
 
-### Active Directory Users and Computers - RockyPetSupply OU Structure
+### RockyPetSupply OU Structure
 <img width="1024" height="850" alt="Screenshot 2026-06-14 192633" src="https://github.com/user-attachments/assets/7cce05fb-2795-4b28-be68-da249fb13a14" />
 
 ### Password Reset Example
